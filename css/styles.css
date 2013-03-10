@@ -1,0 +1,28 @@
+body {
+	background-image: url('../img/math.jpg');
+}
+p {
+	font-size: 16px;
+}
+.panel {
+	background-color: black;
+	padding: 30px;
+	opacity: 0.9;
+	border-radius: 20px;
+	z-index: 10;
+}
+.about{
+	position: absolute;
+	top: 70px;
+	left: 30px;
+	width: 480px;
+	height: 300px;
+	color: white;
+}
+.me {
+	position: absolute;
+	top: 70px;
+	right: 60px;
+	width: 400px;
+	height: 600px;
+}
